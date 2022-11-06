@@ -13,7 +13,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/Sombra-HY">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Sombra-HY&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Sombra-HY&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
   <h2>
         Linguagens mais Utilizadas
   </h2>
