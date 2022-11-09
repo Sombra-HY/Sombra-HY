@@ -2,9 +2,7 @@
 <h1>
     Oi, me chamo Lucas Sombra 🖐 <br>
 </h1>
-<p>
-  🟣 💼 Eu estou trabalhando com Projetos que envolve as linguagens Python e C. 
-</p>
+
 <p>
   🟣 📖 Atualmente estudando a linguagem c e Orientação objetos com Python. 
 </p>
