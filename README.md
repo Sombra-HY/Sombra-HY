@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  🟣 📖 Atualmente estudando as linguagens C e Python (POO) e focando nas bibliotecas Numpy, Matplotlib, MySQL. 
+  🟣 📖 Atualmente estudando as linguagens Java e Python (POO) e focando em MySQL. 
 </p>
 
   ##
